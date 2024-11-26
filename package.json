@@ -1,0 +1,23 @@
+{
+  "name": "cloud-flex",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiz86/Cloud-Flex.git"
+  },
+  "author": "matiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiz86/Cloud-Flex/issues"
+  },
+  "homepage": "https://github.com/matiz86/Cloud-Flex#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "sass": "^1.81.0"
+  }
+}
